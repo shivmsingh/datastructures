@@ -1,3 +1,3 @@
-# Data Strucutres and Algortihms in C++
+# Data Structures and Algortihms in C++
 
-## A Simple git  repository consisting of questions of data structures and algorithms for practice.
+A simple git repository consisting of questions of Data Structures and Algorithms for practice.
