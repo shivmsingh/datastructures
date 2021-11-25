@@ -16,3 +16,4 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 - [10_Tiling-Problem](recursions/10_tilingproblem.cpp)
 - [11_Ladder-Problem](recursions/11_ladderproblem.cpp)
 - [12_Tower-of-Hanoi](recursions/12_towerofhanoi.cpp)
+- [13_Generate-Brackets](recursions/13_generatebrackets.cpp)
