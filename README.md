@@ -19,3 +19,4 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 - [13_Generate-Brackets](recursions/13_generatebrackets.cpp)
 - [14_Knapsack-Problem](recursions/14_knapsack.cpp)
 - [15_Keypad-Problem](recursions/15_keypad.cpp)
+- [16_Rodcutting-Problem](recursions/16_rodcutting.cpp)
