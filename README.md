@@ -17,4 +17,4 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 - [11_Ladder-Problem](recursions/11_ladderproblem.cpp)
 - [12_Tower-of-Hanoi](recursions/12_towerofhanoi.cpp)
 - [13_Generate-Brackets](recursions/13_generatebrackets.cpp)
-- [14_Knapsack-Problem](recursions/13_knapsack.cpp)
+- [14_Knapsack-Problem](recursions/14_knapsack.cpp)
