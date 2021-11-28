@@ -20,3 +20,11 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 - [14_Knapsack-Problem](recursions/14_knapsack.cpp)
 - [15_Keypad-Problem](recursions/15_keypad.cpp)
 - [16_Rodcutting-Problem](recursions/16_rodcutting.cpp)
+
+## Linked List
+
+
+- [Linked-List-Boilerplate](linkedlist/linkedlist.h)
+- [01_Midpoint](linkedlist/01_midpoint.cpp)
+- [02_KthNode-from-end](linkedlist/02_kthnode.cpp)
+- [03_Reverse-Linkedlist](linkedlist/03_reverselinkedlist.cpp)
