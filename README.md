@@ -28,3 +28,6 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 - [01_Midpoint](linkedlist/01_midpoint.cpp)
 - [02_KthNode-from-end](linkedlist/02_kthnode.cpp)
 - [03_Reverse-Linkedlist](linkedlist/03_reverselinkedlist.cpp)
+- [04_Recursive-Reverse-Linkedlist](linkedlist/04_recursivelinkedlist.cpp)
+- [05_kReverse-Linkedlist](linkedlist/05_kreverse.cpp)
+- [06_Merge-Two-Sorted-Linkedlist](linkedlist/06_mergetwosortedlinkedlist.cpp)
