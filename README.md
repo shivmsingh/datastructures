@@ -8,4 +8,4 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 - [167. Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted)
 - [26. Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array)
 - [27. Remove Element](27-remove-element)
-- [977-squares-of-a-sorted-array](977. Squares of a Sorted Array)
+- [977. Squares of a Sorted Array](977-squares-of-a-sorted-array)
