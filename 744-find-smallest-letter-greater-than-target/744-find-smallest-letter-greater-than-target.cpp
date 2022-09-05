@@ -1,6 +1,7 @@
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
+        if(target >= letters[letters.size() - 1]) return letters[0];
         int ans = -1;
         int low = 0;
         int high = letters.size() - 1;
@@ -15,6 +16,6 @@ public:
             }
         }
         
-        return ans == -1 ? letters[0] : letters[ans];
+        return letters[ans];
     }
 };
