@@ -17,3 +17,8 @@ A simple git repository consisting of questions of Data Structures and Algorithm
 ## Bitwise XOR
 
 - [1009. Complement of Base 10 Integer](1009-complement-of-base-10-integer)
+
+## Modified Binary Search
+
+- [744. Find Smallest Letter Greater Than Target](744-find-smallest-letter-greater-than-target)
+- [278. First Bad Version](278-first-bad-version)
